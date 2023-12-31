@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ALBUS12345</h1>
 <h3 align="center">—————————————————————————————</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albus12345&label=Profile%20views&color=0e75b6&style=flat" alt="albus12345" /> </p>
+
 
 - 🌱 I’m currently learning **NextJS, ViteJS**
 
