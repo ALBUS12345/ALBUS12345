@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **angular ionic capacitor nodejs tailwind react native**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
